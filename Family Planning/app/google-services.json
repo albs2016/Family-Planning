@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "507293522345",
+    "firebase_url": "https://family-planning-1583625059121.firebaseio.com",
+    "project_id": "family-planning-1583625059121",
+    "storage_bucket": "family-planning-1583625059121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507293522345:android:5273922bd9700f6db78cb8",
+        "android_client_info": {
+          "package_name": "Team07.FamilyPlanning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507293522345-hfnsi7kn00kqo9stncf6cpi8j8kv005k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Team07.FamilyPlanning",
+            "certificate_hash": "a5cbf8b9723138e1f9faae1b055bdbdb88ef7aa7"
+          }
+        },
+        {
+          "client_id": "507293522345-g53pgige02n4gljk6839l1qks8mrtsdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL5JKm6-u5H94R5a8iKthKCzP7f3AT2Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507293522345-g53pgige02n4gljk6839l1qks8mrtsdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
